@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6505109383ce6b7377c083fde5ea5b30",
+    "revision": "4ce2b4077b50692eebef5943f4894b3c",
     "url": "/react-vezdekod-project-web.github.io/index.html"
   },
   {
-    "revision": "56727ba906041e930ed9",
+    "revision": "83cf33abf5a0bd37d1e9",
     "url": "/react-vezdekod-project-web.github.io/static/css/main.a1107254.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-vezdekod-project-web.github.io/static/js/2.9aaa8ee6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "56727ba906041e930ed9",
-    "url": "/react-vezdekod-project-web.github.io/static/js/main.6a1877ef.chunk.js"
+    "revision": "83cf33abf5a0bd37d1e9",
+    "url": "/react-vezdekod-project-web.github.io/static/js/main.3cf1719e.chunk.js"
   },
   {
     "revision": "a70c886556fb566a17ad",
