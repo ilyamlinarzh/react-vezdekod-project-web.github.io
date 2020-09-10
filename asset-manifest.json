@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-vezdekod-project-web.github.io/static/css/main.a1107254.chunk.css",
-    "main.js": "/react-vezdekod-project-web.github.io/static/js/main.3cf1719e.chunk.js",
-    "main.js.map": "/react-vezdekod-project-web.github.io/static/js/main.3cf1719e.chunk.js.map",
+    "main.js": "/react-vezdekod-project-web.github.io/static/js/main.6a1877ef.chunk.js",
+    "main.js.map": "/react-vezdekod-project-web.github.io/static/js/main.6a1877ef.chunk.js.map",
     "runtime-main.js": "/react-vezdekod-project-web.github.io/static/js/runtime-main.d00ffe7f.js",
     "runtime-main.js.map": "/react-vezdekod-project-web.github.io/static/js/runtime-main.d00ffe7f.js.map",
     "static/js/2.9aaa8ee6.chunk.js": "/react-vezdekod-project-web.github.io/static/js/2.9aaa8ee6.chunk.js",
     "static/js/2.9aaa8ee6.chunk.js.map": "/react-vezdekod-project-web.github.io/static/js/2.9aaa8ee6.chunk.js.map",
     "index.html": "/react-vezdekod-project-web.github.io/index.html",
-    "precache-manifest.12aadb6e78e38b13714108ae236accaa.js": "/react-vezdekod-project-web.github.io/precache-manifest.12aadb6e78e38b13714108ae236accaa.js",
+    "precache-manifest.2ae0b0e2011f81de630e4a262faa1e5c.js": "/react-vezdekod-project-web.github.io/precache-manifest.2ae0b0e2011f81de630e4a262faa1e5c.js",
     "service-worker.js": "/react-vezdekod-project-web.github.io/service-worker.js",
     "static/css/main.a1107254.chunk.css.map": "/react-vezdekod-project-web.github.io/static/css/main.a1107254.chunk.css.map",
     "static/js/2.9aaa8ee6.chunk.js.LICENSE.txt": "/react-vezdekod-project-web.github.io/static/js/2.9aaa8ee6.chunk.js.LICENSE.txt",
@@ -28,6 +28,6 @@
     "static/js/runtime-main.d00ffe7f.js",
     "static/js/2.9aaa8ee6.chunk.js",
     "static/css/main.a1107254.chunk.css",
-    "static/js/main.3cf1719e.chunk.js"
+    "static/js/main.6a1877ef.chunk.js"
   ]
 }
